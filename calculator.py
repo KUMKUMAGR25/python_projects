@@ -9,3 +9,5 @@ if num2 != 0:
     print("Division:", num1 / num2)
 else:
     print("Cannot divide by zero")
+
+print("Modulus:", num1 % num2)
