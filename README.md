@@ -1,2 +1,2 @@
-# python_calculator
-Python project
+# python_project
+Calculator
