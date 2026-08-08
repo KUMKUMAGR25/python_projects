@@ -11,3 +11,5 @@ else:
     print("Cannot divide by zero")
 
 print("Modulus:", num1 % num2)
+print("Power:", num1 ** num2)
+print("Simple calculator")
