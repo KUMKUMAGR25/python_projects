@@ -3,3 +3,13 @@ idx = 0
 while idx < len(num):
     print(num[idx])
     idx +=1
+
+#FIND THE NUMBER IN THE TUPLE BY LOOP
+
+num = (1,4,9,16,25,36,49,64,81,100)
+x = 81
+i = 0
+while i < len(num):
+    if(num[i] == x):
+        print("found the number" , i)
+    i += 1  
