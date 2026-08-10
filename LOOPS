@@ -1,10 +1,12 @@
+# while loop():
+
 num = [1,4,9,16,25,36,49,64,81,100]
 idx = 0
 while idx < len(num):
     print(num[idx])
     idx +=1
 
-#FIND THE NUMBER IN THE TUPLE BY LOOP
+# #FIND THE NUMBER IN THE TUPLE BY LOOP
 
 num = (1,4,9,16,25,36,49,64,81,100)
 x = 25
@@ -24,3 +26,78 @@ while i <= 10:
         continue
     print("Even number" , i)
     i += 1
+
+#for loop():
+# print the elements of the following list using a loop
+# [1,4,9,16,25,36,49,64,81,4,9,16,25,36,49,64,81 100]
+
+nums = [1,4,9,16,25,36,49,64,81,100]
+
+for i in nums:
+    print(i)
+
+nums = (1,4,9,16,25,36,49,64,81,100,36)
+
+x = 36
+for i in nums:
+    if( i == x):
+        print("FOUND NUMBER")
+        break
+
+#range():
+for i in range(10):
+    print(i)
+
+for i in range(1,10):
+    print(i)
+
+for i in range(2,10,2):
+    print(i)
+
+# PRINT NUMBERS FROM 1 TO 100
+
+for i in range(101):
+    print(i)
+
+# #print numbers from 100 to 1
+for i in range(100,0,-1):
+    print(i)
+
+#print the multiplication table of a number n
+
+num = int(input("Enter the number"))
+for i in range(1,11):
+    print(i*num)
+
+#PASS() = null statement
+
+for i in range(5):
+    pass
+
+# print("some useful work")
+
+#wap to find the sum of first n number
+
+n = 5
+sum = 0 
+i = 1
+while i <= n:
+    sum += i
+    i += 1
+print("total sum =" , sum)
+
+#factorial
+
+n = 4
+fac = 1
+for i in range(1, n+1):
+    fac *= i
+print("Factorial is=" , fac)
+
+n = 5
+fact = 1
+i = 1
+while i <= n:
+    fact *= i
+    i += 1
+print("Factorial is =" , fact)
