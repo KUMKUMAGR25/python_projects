@@ -1,4 +1,6 @@
 ## python_project
-Calculator,
-BMI calculator,
+Calculator
+<br>
+BMI calculator
+<br>
 Number guessing
