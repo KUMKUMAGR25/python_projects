@@ -4,3 +4,9 @@ Calculator
 BMI calculator
 <br>
 Number guessing
+<br>
+Password generator
+<br>
+Student grade calculator
+
+
