@@ -1,12 +1,12 @@
 ## python_project
-Calculator
+1.Calculator
 <br>
-BMI calculator
+2.BMI calculator
 <br>
-Number guessing
+3.Number guessing
 <br>
-Password generator
+4.Password generator
 <br>
-Student grade calculator
+5.Student grade calculator
 
 
