@@ -8,5 +8,6 @@
 4.Password generator
 <br>
 5.Student grade calculator
-
+<br>
+6.Rock paper scissor
 
