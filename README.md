@@ -16,3 +16,5 @@
 8. Leap year checker.
 <br>
 9. Age calculator.
+<br>
+10. Dice simulator.
