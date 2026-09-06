@@ -22,3 +22,6 @@
 11. Countdown timer.
 <br>
 12. Word counter.
+<br>
+13. Palindrome checker.
+
