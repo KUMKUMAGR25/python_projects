@@ -20,3 +20,5 @@
 10. Dice simulator.
 <br>
 11. Countdown timer.
+<br>
+12. Word counter.
