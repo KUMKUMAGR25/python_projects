@@ -25,7 +25,7 @@
 <br>
 13. Palindrome checker.
 <br>
-14. ATM Stimulator.
+14. ATM Simulator.
 <br>
 
 
